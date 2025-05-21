@@ -12,11 +12,12 @@ Real-time classroom audio analysis using speech recognition, NLP summarisation, 
 ---
 
 ## 📂 Project Structure
-
+<pre>
 ```bash
 ├── Real_Time_Project.ipynb     # Main notebook with full pipeline
 ├── README.md                   # Project overview and instructions
 └── requirements.txt            # Python libraries to install
+</pre>
 
 🚀 How to Use
 Run the Jupyter Notebook:
