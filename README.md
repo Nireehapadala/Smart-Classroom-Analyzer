@@ -68,4 +68,6 @@ Feedback generation for teachers
 
 🤝 Contributing
 Feel free to open issues or submit pull requests if you’d like to help improve this project!
-
+📬 Contact
+ Created by Nireeha Padala 📧 [nireehap@gmail.com]
+🔗 [www.linkedin.com/in/nireeha-padala-6a71ab2a0] | [https://github.com/Nireehapadala]
